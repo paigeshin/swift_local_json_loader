@@ -1,0 +1,1 @@
+# swift_local_json_loader
